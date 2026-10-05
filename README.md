@@ -1,6 +1,6 @@
 # BRUSYN — Sites demonstrativos
 
-Coleção de dez sites com marcas fictícias para demonstração comercial, acompanhada de uma galeria central.
+Coleção de onze sites com marcas fictícias para demonstração comercial, acompanhada de uma galeria central.
 
 ## Modelos
 
@@ -15,6 +15,8 @@ Coleção de dez sites com marcas fictícias para demonstração comercial, acom
 
 - **AURA** — Loja de roupas (`roupas/index.html`)
 - **PATA & CIA** — Pet shop (`petshop/index.html`)
+
+- **DOURADINHA** — Cardápio de salgaderia (`salgaderia/index.html`)
 
 ## Executar
 
@@ -35,3 +37,5 @@ Conteúdo de cada marca em sua pasta. CSS compartilhado em assets/styles.css; in
 ## Novas demonstrações
 
 AURA: filtros, tamanhos, sacola e contato simulado; nenhum pagamento ou mensagem real. PATA & CIA: filtros, detalhes de produto e formulário demonstrativo sem envio ou armazenamento. Imagens da AURA são referências ilustrativas, não fotografias dos produtos reais.
+
+DOURADINHA: busca, categorias, quantidades limitadas de 0 a 99, total, resumo e cópia de mensagem. Produtos e valores fictícios. Nenhuma mensagem, pedido ou pagamento real é enviado.
