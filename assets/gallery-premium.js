@@ -1,0 +1,6 @@
+'use strict';
+let current='Todos';const search=document.querySelector('#search');
+const normalize=s=>s.normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase();
+function apply(){const term=normalize(search.value.trim());let count=0;document.querySelectorAll('.project').forEach(p=>{const show=(current==='Todos'||p.dataset.group===current)&&normalize(p.dataset.search).includes(term);p.hidden=!show;if(show)count++});document.querySelector('#count').textContent=count+(count===1?' demonstração':' demonstrações');document.querySelector('#empty').hidden=count!==0;document.querySelector('#clear-search').hidden=!search.value;}
+function reset(){current='Todos';search.value='';document.querySelectorAll('[data-filter]').forEach(b=>{const active=b.dataset.filter==='Todos';b.classList.toggle('active',active);b.setAttribute('aria-pressed',String(active))});apply();search.focus();}
+document.querySelectorAll('[data-filter]').forEach(b=>b.addEventListener('click',()=>{current=b.dataset.filter;document.querySelectorAll('[data-filter]').forEach(x=>{x.classList.toggle('active',x===b);x.setAttribute('aria-pressed',String(x===b))});apply();}));search.addEventListener('input',apply);document.querySelector('#clear-search').addEventListener('click',()=>{search.value='';apply();search.focus()});document.querySelector('#reset-search').addEventListener('click',reset);apply();

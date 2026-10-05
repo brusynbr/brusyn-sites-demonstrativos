@@ -1,0 +1,81 @@
+/* Shared presentation for the seven original service and catalogue demos. */
+:is(body.olive,body.dental,body.barber,body.build,body.estate,body.account,body.fitness){--premium-shadow:0 20px 60px #162a2210;overflow-wrap:break-word}
+:is(.olive,.dental,.barber,.build,.estate,.account,.fitness) .skip-link{position:fixed;left:20px;top:12px;z-index:100;transform:translateY(-180%);background:var(--ink);color:var(--bg);padding:12px 20px;border-radius:6px;font-weight:700}
+:is(.olive,.dental,.barber,.build,.estate,.account,.fitness) .skip-link:focus{transform:translateY(0)}
+:is(.olive,.dental,.barber,.build,.estate,.account,.fitness) main:focus{outline:none}
+:is(.olive,.dental,.barber,.build,.estate,.account,.fitness) header{box-shadow:0 5px 25px #15291d05}
+:is(.olive,.dental,.barber,.build,.estate,.account,.fitness) nav{position:relative;height:86px}
+:is(.olive,.dental,.barber,.build,.estate,.account,.fitness) .brand{font-size:24px;letter-spacing:.075em}
+:is(.olive,.dental,.barber,.build,.estate,.account,.fitness) .brand small{font-size:9px;line-height:1.5;letter-spacing:.16em}
+:is(.olive,.dental,.barber,.build,.estate,.account,.fitness) .nav-links{gap:23px;font-size:12px;font-weight:600}
+:is(.olive,.dental,.barber,.build,.estate,.account,.fitness) .nav-links>a{padding-block:12px;transition:color .2s}
+:is(.olive,.dental,.barber,.build,.estate,.account,.fitness) .nav-links>a:hover{color:var(--accent)}
+:is(.olive,.dental,.barber,.build,.estate,.account,.fitness) .button{min-height:48px;letter-spacing:.01em}
+:is(.olive,.dental,.barber,.build,.estate,.account,.fitness) .hero{min-height:660px;gap:clamp(30px,5vw,70px);padding-block:64px}
+:is(.olive,.dental,.barber,.build,.estate,.account,.fitness) .hero>div:first-child{min-width:0}
+:is(.olive,.dental,.barber,.build,.estate,.account,.fitness) .hero h1{font-size:clamp(44px,5.1vw,72px);line-height:1.08;letter-spacing:-.05em}
+:is(.olive,.dental,.barber,.build,.estate,.account,.fitness) .hero p:not(.eyebrow){max-width:475px;font-size:15px;line-height:1.85}
+:is(.olive,.dental,.barber,.build,.estate,.account,.fitness) .hero .eyebrow{line-height:1.8;letter-spacing:.17em}
+:is(.olive,.dental,.barber,.build,.estate,.account,.fitness) .hero-art{aspect-ratio:1;box-shadow:var(--premium-shadow)}
+:is(.olive,.dental,.barber,.build,.estate,.account,.fitness) .art-caption{max-width:calc(100% - 44px);bottom:22px;left:22px;line-height:1.6;letter-spacing:.05em}
+:is(.olive,.dental,.barber,.build,.estate,.account,.fitness) .strip{font-size:12px;line-height:1.6;padding-block:26px}
+:is(.olive,.dental,.barber,.build,.estate,.account,.fitness) .strip span{min-width:0}
+:is(.olive,.dental,.barber,.build,.estate,.account,.fitness) section.content{padding-block:88px}
+:is(.olive,.dental,.barber,.build,.estate,.account,.fitness) .section-top{margin-bottom:34px}
+:is(.olive,.dental,.barber,.build,.estate,.account,.fitness) .section-top h2{max-width:620px}
+:is(.olive,.dental,.barber,.build,.estate,.account,.fitness) #results-count{white-space:nowrap;font-size:11px;color:var(--muted)}
+:is(.olive,.dental,.barber,.build,.estate,.account,.fitness) .filter{min-height:44px;padding-inline:19px;font-size:12px}
+:is(.olive,.dental,.barber,.build,.estate,.account,.fitness) .card{padding:27px;min-height:285px;box-shadow:0 4px 18px #13251c04;border-radius:14px}
+:is(.olive,.dental,.barber,.build,.estate,.account,.fitness) .card .number{margin-bottom:23px;font-size:10px}
+:is(.olive,.dental,.barber,.build,.estate,.account,.fitness) .card h3{font-size:21px;letter-spacing:-.025em}
+:is(.olive,.dental,.barber,.build,.estate,.account,.fitness) .card p{line-height:1.8;font-size:13px}
+:is(.olive,.dental,.barber,.build,.estate,.account,.fitness) .card-bottom{gap:12px}
+:is(.olive,.dental,.barber,.build,.estate,.account,.fitness) .card button{min-height:44px;padding:10px 2px;font-weight:700;font-size:12px}
+:is(.olive,.dental,.barber,.build,.estate,.account,.fitness) .price{font-size:17px;letter-spacing:-.03em}
+:is(.olive,.dental,.barber,.build,.estate,.account,.fitness) .price small{font-size:11px;font-weight:500;letter-spacing:0;white-space:nowrap}
+:is(.olive,.dental,.barber,.build,.estate,.account,.fitness) .mini-art{height:215px;margin:-27px -27px 25px}
+:is(.olive,.dental,.barber,.build,.estate,.account,.fitness) .mini-art img{display:block}
+:is(.olive,.dental,.barber,.build,.estate,.account,.fitness) .story{padding:58px;gap:55px;margin-bottom:85px;border-radius:18px;align-items:center}
+:is(.olive,.dental,.barber,.build,.estate,.account,.fitness) .story .eyebrow{color:var(--bg);opacity:.65}
+:is(.olive,.dental,.barber,.build,.estate,.account,.fitness) .story h2{margin-bottom:0;font-size:clamp(30px,3.6vw,44px)}
+:is(.olive,.dental,.barber,.build,.estate,.account,.fitness) .story p:not(.eyebrow){font-size:14px;line-height:1.9;opacity:.82}
+:is(.olive,.dental,.barber,.build,.estate,.account,.fitness) .process-section{padding-bottom:68px}
+:is(.olive,.dental,.barber,.build,.estate,.account,.fitness) .steps{gap:30px;margin-bottom:0}
+:is(.olive,.dental,.barber,.build,.estate,.account,.fitness) .steps>article{border-top:1px solid var(--line);padding-top:24px;min-width:0}
+:is(.olive,.dental,.barber,.build,.estate,.account,.fitness) .steps b{font-size:10px;letter-spacing:.1em}
+:is(.olive,.dental,.barber,.build,.estate,.account,.fitness) .steps h3{font-size:20px;letter-spacing:-.02em}
+:is(.olive,.dental,.barber,.build,.estate,.account,.fitness) .steps p{font-size:13px;line-height:1.85}
+:is(.olive,.dental,.barber,.build,.estate,.account,.fitness) .faq{padding-top:30px;padding-bottom:80px;max-width:1050px}
+:is(.olive,.dental,.barber,.build,.estate,.account,.fitness) .faq h2{margin-bottom:28px}
+:is(.olive,.dental,.barber,.build,.estate,.account,.fitness) details{padding:0}
+:is(.olive,.dental,.barber,.build,.estate,.account,.fitness) summary{list-style:none;position:relative;min-height:64px;padding:20px 44px 20px 0;font-size:15px;font-weight:600;line-height:1.6}
+:is(.olive,.dental,.barber,.build,.estate,.account,.fitness) summary::-webkit-details-marker{display:none}
+:is(.olive,.dental,.barber,.build,.estate,.account,.fitness) summary::after{content:'+';position:absolute;right:4px;top:18px;font-size:23px;font-weight:400;color:var(--accent)}
+:is(.olive,.dental,.barber,.build,.estate,.account,.fitness) details[open] summary::after{content:'−'}
+:is(.olive,.dental,.barber,.build,.estate,.account,.fitness) details p{max-width:850px;padding:0 40px 20px 0;margin:0;font-size:13px;line-height:1.9}
+:is(.olive,.dental,.barber,.build,.estate,.account,.fitness) .contact{padding-block:55px}
+:is(.olive,.dental,.barber,.build,.estate,.account,.fitness) .contact>div{max-width:690px}
+:is(.olive,.dental,.barber,.build,.estate,.account,.fitness) .contact .button{flex-shrink:0}
+:is(.olive,.dental,.barber,.build,.estate,.account,.fitness) .contact p{max-width:560px;font-size:14px;line-height:1.8}
+:is(.olive,.dental,.barber,.build,.estate,.account,.fitness) dialog .close{min-width:44px;min-height:44px;border-radius:50%;flex-shrink:0}
+:is(.olive,.dental,.barber,.build,.estate,.account,.fitness) .cart-controls button{width:44px;height:44px;border-radius:8px}
+:is(.olive,.dental,.barber,.build,.estate,.account,.fitness) dialog .cart-line{align-items:center}
+/* Each sector retains its own character and hierarchy. */
+body.olive{--bg:#faf8f1;--ink:#283b30;--accent:#4b652f;--muted:#5e6c60;--line:#dfe3d5}
+.olive .hero-art{border-radius:24px 130px 24px 24px}.olive .hero{grid-template-columns:1fr 1.02fr}.olive .food-card-photo{height:185px;width:calc(100% + 54px);margin:-27px -27px 25px}.olive .story{background:#344b3c}.olive .card{background:#fffdf7}
+body.dental{--bg:#f7fcfa;--ink:#173c35;--accent:#247663;--muted:#4f7065;--line:#d8e7df}
+.dental .hero-art{border-radius:150px 150px 18px 18px}.dental .card{background:white}.dental .hero{background:radial-gradient(ellipse at 10% 10%,#dfeee370,transparent 70%)}.dental .story{background:#184c41}.dental .contact h2,.dental .story h2{font-family:Manrope,system-ui,sans-serif}
+body.barber{--bg:#171d19;--ink:#f2e9d9;--accent:#dec187;--muted:#b6bbae;--line:#3a443b}
+.barber .hero-art{border-radius:8px;aspect-ratio:4/4.3;border:1px solid #d4bf9333}.barber .card{background:#1d271f;border-radius:6px}.barber .story{background:#e7d4b2;color:#243329;border-radius:6px}.barber .story .eyebrow{color:#243329}.barber .button{border-radius:4px}.barber .contact h2{font-size:clamp(32px,3.6vw,46px)}
+body.build{--bg:#f2f0e9;--ink:#333d33;--accent:#5c6c4d;--muted:#626b5d;--line:#d5d9cb}
+.build .hero-art{border-radius:4px 100px 4px 4px;aspect-ratio:4/4.3}.build .card,.build .story{border-radius:4px}.build .card{background:#fbfaf6}.build .button{border-radius:4px}.build .mini-art{height:240px}.build .story{background:#3c493a}
+body.estate{--bg:#faf7f1;--ink:#3d3c32;--accent:#865936;--muted:#6f6659;--line:#e1d7c9}
+.estate .hero-art{border-radius:150px 150px 12px 12px}.estate .card{background:#fffdf9;border-radius:10px}.estate .story{background:#4b473b}.estate .mini-art{height:230px}.estate .price{font-size:20px}.estate .search{align-items:center}.estate .search label{margin:0;white-space:nowrap}
+body.account{--bg:#f5f7fb;--ink:#1e344b;--accent:#285dca;--muted:#56677a;--line:#dbe2eb}
+.account .hero-art{border-radius:16px;aspect-ratio:4/4.1}.account .hero{grid-template-columns:1.08fr .92fr}.account .hero h1{font-weight:650;letter-spacing:-.06em}.account .card{background:white;border-top:3px solid #bfd0ed;border-radius:8px}.account .story{background:#203c59}.account .story h2,.account .contact h2{font-family:Manrope,system-ui,sans-serif}.account .button{border-radius:7px}
+body.fitness{--bg:#111820;--ink:#f2f5ed;--accent:#b8ee62;--muted:#b3bdc6;--line:#34414c}
+.fitness .hero-art{border-radius:12px;aspect-ratio:4/4.3}.fitness .hero h1{font-weight:800;text-transform:uppercase;font-size:clamp(43px,4.8vw,69px)}.fitness .card{background:#19222c;border-radius:10px;border-top:3px solid #648d39}.fitness .story{background:#b8ee62;color:#15221b}.fitness .story .eyebrow{color:#15221b}.fitness .story h2,.fitness .contact h2{font-family:Manrope,system-ui,sans-serif;font-weight:700}.fitness .button{border-radius:7px}
+@media(max-width:1050px){:is(.olive,.dental,.barber,.build,.estate,.account,.fitness) .nav-links{gap:14px}:is(.olive,.dental,.barber,.build,.estate,.account,.fitness) .nav-links .button{padding:12px 17px}:is(.olive,.dental,.barber,.build,.estate,.account,.fitness) .hero{min-height:560px}:is(.olive,.dental,.barber,.build,.estate,.account,.fitness) .story{padding:42px;gap:35px}:is(.olive,.dental,.barber,.build,.estate,.account,.fitness) .contact{align-items:flex-start}}
+@media(max-width:820px){:is(.olive,.dental,.barber,.build,.estate,.account,.fitness) nav{height:76px}:is(.olive,.dental,.barber,.build,.estate,.account,.fitness) .mobile-toggle{display:block;min-height:44px;padding-inline:14px;border-radius:5px;font-size:12px}:is(.olive,.dental,.barber,.build,.estate,.account,.fitness) .nav-links{display:none;position:absolute;top:100%;left:0;right:0;background:var(--bg);padding:20px 24px;border-bottom:1px solid var(--line);box-shadow:0 14px 24px #10201812;flex-direction:column;align-items:stretch;gap:6px}:is(.olive,.dental,.barber,.build,.estate,.account,.fitness) .nav-links.open{display:flex}:is(.olive,.dental,.barber,.build,.estate,.account,.fitness) .nav-links>a{min-height:44px;padding:11px 4px}:is(.olive,.dental,.barber,.build,.estate,.account,.fitness) .hero{gap:26px;padding-block:45px}:is(.olive,.dental,.barber,.build,.estate,.account,.fitness) .hero h1{font-size:46px}:is(.olive,.dental,.barber,.build,.estate,.account,.fitness) .hero-actions .button{padding-inline:19px}:is(.olive,.dental,.barber,.build,.estate,.account,.fitness) .contact{flex-direction:column;gap:20px}:is(.olive,.dental,.barber,.build,.estate,.account,.fitness) .story{gap:28px}:is(.olive,.dental,.barber,.build,.estate,.account,.fitness) .art-caption{font-size:8px;padding:9px 12px;left:15px;bottom:15px;max-width:calc(100% - 30px)}}
+@media(max-width:650px){:is(.olive,.dental,.barber,.build,.estate,.account,.fitness) .hero{grid-template-columns:1fr;padding-block:40px;min-height:0;gap:32px}:is(.olive,.dental,.barber,.build,.estate,.account,.fitness) .hero h1{font-size:clamp(38px,9.5vw,52px)}:is(.olive,.dental,.barber,.build,.estate,.account,.fitness) .hero p:not(.eyebrow){font-size:14px}:is(.olive,.dental,.barber,.build,.estate,.account,.fitness) .hero-art{aspect-ratio:4/3;max-height:400px}:is(.olive,.dental,.barber,.build,.estate,.account,.fitness) .hero-actions{gap:10px}:is(.olive,.dental,.barber,.build,.estate,.account,.fitness) .hero-actions .button{width:100%}:is(.olive,.dental,.barber,.build,.estate,.account,.fitness) .strip{padding-block:22px;gap:15px}:is(.olive,.dental,.barber,.build,.estate,.account,.fitness) section.content{padding-block:58px}:is(.olive,.dental,.barber,.build,.estate,.account,.fitness) .section-top{margin-bottom:24px}:is(.olive,.dental,.barber,.build,.estate,.account,.fitness) #results-count{display:block;margin-top:18px}:is(.olive,.dental,.barber,.build,.estate,.account,.fitness) .cards{gap:18px}:is(.olive,.dental,.barber,.build,.estate,.account,.fitness) .card{min-height:260px}:is(.olive,.dental,.barber,.build,.estate,.account,.fitness) .story{padding:32px 25px;grid-template-columns:1fr;gap:25px;margin-inline:20px;margin-bottom:58px}:is(.olive,.dental,.barber,.build,.estate,.account,.fitness) .process-section{padding-bottom:40px}:is(.olive,.dental,.barber,.build,.estate,.account,.fitness) .steps{gap:23px;margin-top:30px}:is(.olive,.dental,.barber,.build,.estate,.account,.fitness) .steps>article{padding-top:20px}:is(.olive,.dental,.barber,.build,.estate,.account,.fitness) .steps p{margin-bottom:0}:is(.olive,.dental,.barber,.build,.estate,.account,.fitness) .faq{padding-top:20px;padding-bottom:45px}:is(.olive,.dental,.barber,.build,.estate,.account,.fitness) summary{font-size:14px}:is(.olive,.dental,.barber,.build,.estate,.account,.fitness) details p{padding-right:15px}:is(.olive,.dental,.barber,.build,.estate,.account,.fitness) .contact{padding-block:40px}:is(.olive,.dental,.barber,.build,.estate,.account,.fitness) .contact .button{width:100%;margin-top:0}:is(.olive,.dental,.barber,.build,.estate,.account,.fitness) .cart-line{flex-wrap:wrap}:is(.olive,.dental,.barber,.build,.estate,.account,.fitness) dialog{padding:25px}:is(.olive,.dental,.barber,.build,.estate,.account,.fitness) .photo-note{line-height:1.8}.olive .hero-art{border-radius:18px 75px 18px 18px}.dental .hero-art{border-radius:85px 85px 14px 14px}.estate .hero-art{border-radius:90px 90px 10px 10px}.build .hero-art{border-radius:4px 70px 4px 4px}.estate .search label{align-self:flex-start}}
+@media(prefers-reduced-motion:reduce){:is(.olive,.dental,.barber,.build,.estate,.account,.fitness) .skip-link{transform:none;position:absolute;clip-path:inset(50%);width:1px;height:1px;overflow:hidden}:is(.olive,.dental,.barber,.build,.estate,.account,.fitness) .skip-link:focus{position:fixed;clip-path:none;width:auto;height:auto}:is(.olive,.dental,.barber,.build,.estate,.account,.fitness) .card:hover,:is(.olive,.dental,.barber,.build,.estate,.account,.fitness) .button:hover{transform:none}}
