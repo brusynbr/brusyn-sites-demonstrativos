@@ -1,6 +1,6 @@
 # BRUSYN — Sites demonstrativos
 
-Coleção de doze sites com marcas fictícias para demonstração comercial, acompanhada de uma galeria central.
+Coleção de vinte sites com marcas fictícias para demonstração comercial, acompanhada de uma galeria central.
 
 ## Modelos
 
@@ -18,3 +18,14 @@ Coleção de doze sites com marcas fictícias para demonstração comercial, aco
 - **DOURADINHA** — Cardápio de salgaderia (`salgaderia/index.html`)
 
 Os modelos usam marcas e dados fictícios. Confirme preços, condições, localização e contatos antes de adaptar qualquer conteúdo a uma empresa real.
+
+## Novos segmentos
+
+- **ALMEIDA & RIOS** — Advocacia (advocacia/index.html)
+- **ESSENZA** — Estética e bem-estar (estetica/index.html)
+- **CASA BRISA** — Hotel e pousada (hotelaria/index.html)
+- **HORIZONTE** — Escola de idiomas (educacao/index.html)
+- **SOLARIS** — Energia solar (energia-solar/index.html)
+- **BOTÂNICA** — Floricultura (floricultura/index.html)
+- **AMORA** — Confeitaria artesanal (confeitaria/index.html)
+- **ELO VET** — Clínica veterinária (veterinaria/index.html)
