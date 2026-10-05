@@ -1,6 +1,6 @@
 # BRUSYN — Sites demonstrativos
 
-Coleção de oito sites com marcas fictícias para demonstração comercial, acompanhada de uma galeria central.
+Coleção de dez sites com marcas fictícias para demonstração comercial, acompanhada de uma galeria central.
 
 ## Modelos
 
@@ -13,9 +13,12 @@ Coleção de oito sites com marcas fictícias para demonstração comercial, aco
 - **NEXO** — Contabilidade (`contabilidade/index.html`)
 - **PULSO** — Academia (`academia/index.html`)
 
+- **AURA** — Loja de roupas (`roupas/index.html`)
+- **PATA & CIA** — Pet shop (`petshop/index.html`)
+
 ## Executar
 
-Abra `index.html` no navegador. Não há dependências ou etapa de build. Para servir localmente, use `python -m http.server 8080` nesta pasta e acesse http://localhost:8080. Os estilos e scripts são locais e funcionam sem fontes ou serviços externos.
+Abra `index.html` no navegador. Não há dependências ou etapa de build. Para servir localmente, use `python -m http.server 8080` nesta pasta e acesse http://localhost:8080. Os oito modelos originais e o pet shop usam recursos locais. A AURA usa fontes do Google Fonts e imagens ilustrativas do Unsplash, que exigem conexão.
 
 ## Funcionalidades
 
@@ -28,3 +31,7 @@ Compatível com hospedagem estática. Para GitHub Pages, selecione a branch main
 ## Personalizar
 
 Conteúdo de cada marca em sua pasta. CSS compartilhado em assets/styles.css; interações em assets/demo.js. Ilustrações SVG locais e conceituais. Nenhuma fotografia, avaliação de cliente ou credencial profissional real foi inventada. Imóveis, valores e horários são fictícios.
+
+## Novas demonstrações
+
+AURA: filtros, tamanhos, sacola e contato simulado; nenhum pagamento ou mensagem real. PATA & CIA: filtros, detalhes de produto e formulário demonstrativo sem envio ou armazenamento. Imagens da AURA são referências ilustrativas, não fotografias dos produtos reais.
