@@ -1,6 +1,6 @@
 # BRUSYN — Sites demonstrativos
 
-Coleção de vinte sites com marcas fictícias para demonstração comercial, acompanhada de uma galeria central.
+Coleção de vinte e um sites com marcas fictícias para demonstração comercial, acompanhada de uma galeria central.
 
 ## Modelos
 
@@ -29,3 +29,5 @@ Os modelos usam marcas e dados fictícios. Confirme preços, condições, locali
 - **BOTÂNICA** — Floricultura (floricultura/index.html)
 - **AMORA** — Confeitaria artesanal (confeitaria/index.html)
 - **ELO VET** — Clínica veterinária (veterinaria/index.html)
+
+- **VIVA** — Farmácia (farmacia/index.html)
