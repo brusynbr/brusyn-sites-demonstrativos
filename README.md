@@ -18,24 +18,3 @@ Coleção de onze sites com marcas fictícias para demonstração comercial, aco
 
 - **DOURADINHA** — Cardápio de salgaderia (`salgaderia/index.html`)
 
-## Executar
-
-Abra `index.html` no navegador. Não há dependências ou etapa de build. Para servir localmente, use `python -m http.server 8080` nesta pasta e acesse http://localhost:8080. Os oito modelos originais e o pet shop usam recursos locais. A AURA usa fontes do Google Fonts e imagens ilustrativas do Unsplash, que exigem conexão.
-
-## Funcionalidades
-
-Filtros de catálogo, busca de imóveis, pedido com quantidades e total no restaurante, menu responsivo e formulários com validação e confirmação demonstrativa. Interações não enviam informações, não armazenam dados pessoais e não fazem transações reais.
-
-## Publicar
-
-Compatível com hospedagem estática. Para GitHub Pages, selecione a branch main e a pasta raiz em Settings → Pages, se o plano e a visibilidade permitirem. Não é necessário inserir chaves ou senhas.
-
-## Personalizar
-
-Conteúdo de cada marca em sua pasta. CSS compartilhado em assets/styles.css; interações em assets/demo.js. Ilustrações SVG locais e conceituais. Nenhuma fotografia, avaliação de cliente ou credencial profissional real foi inventada. Imóveis, valores e horários são fictícios.
-
-## Novas demonstrações
-
-AURA: filtros, tamanhos, sacola e contato simulado; nenhum pagamento ou mensagem real. PATA & CIA: filtros, detalhes de produto e formulário demonstrativo sem envio ou armazenamento. Imagens da AURA são referências ilustrativas, não fotografias dos produtos reais.
-
-DOURADINHA: busca, categorias, quantidades limitadas de 0 a 99, total, resumo e cópia de mensagem. Produtos e valores fictícios. Nenhuma mensagem, pedido ou pagamento real é enviado.
