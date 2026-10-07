@@ -1,6 +1,6 @@
 # BRUSYN — Sites demonstrativos
 
-Coleção de vinte e quatro sites demonstrativos para apresentação comercial, acompanhada de uma galeria central. A maioria usa marcas fictícias; os modelos personalizados Espaço Mulher, ROKEVI e Salão do Milhões são propostas conceituais para prospecção, não sites oficiais dos salões.
+Coleção de vinte e cinco sites demonstrativos para apresentação comercial, acompanhada de uma galeria central. A maioria usa marcas fictícias; os modelos personalizados Espaço Mulher, ROKEVI, Salão do Milhões e Sempre Bella Virgínia são propostas conceituais para prospecção, não sites oficiais dos salões.
 
 ## Modelos
 
@@ -39,3 +39,4 @@ O site Espaço Mulher está em um único `index.html`, com CSS, JavaScript e ima
 - **ROKEVI** — proposta personalizada para um salão de beleza em Barra do Garças (rokevi/index.html). Serviços reunidos a partir dos destaques públicos do Instagram; endereço divergente entre Instagram e Google Maps assinalado para confirmação.
 
 - **Salão do Milhões** — proposta personalizada para um salão de cabeleireiro em Mineiros–GO (salao-do-milhoes/index.html). O Instagram descreve foco em químicas capilares e destaques para cabelo, manicure e sobrancelhas; horários e detalhes comerciais seguem sujeitos à confirmação.
+- **Sempre Bella Virgínia** — proposta personalizada para um salão de beleza em Uruana–GO (sempre-bella-virginia/index.html). Usa os dados e avaliações do Google Maps enviados pelo solicitante; o catálogo de serviços e os horários completos precisam ser confirmados.
