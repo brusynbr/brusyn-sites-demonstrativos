@@ -1,6 +1,6 @@
 # BRUSYN — Sites demonstrativos
 
-Coleção de trinta e três sites demonstrativos para apresentação comercial, acompanhada de uma galeria central. A maioria usa marcas fictícias; propostas personalizadas para empresas reais são conceitos de prospecção, não páginas oficiais. Os detalhes que dependem de confirmação estão indicados em cada modelo.
+Coleção de trinta e quatro sites demonstrativos para apresentação comercial, acompanhada de uma galeria central. A maioria usa marcas fictícias; propostas personalizadas para empresas reais são conceitos de prospecção, não páginas oficiais. Os detalhes que dependem de confirmação estão indicados em cada modelo.
 
 ## Modelos
 
@@ -58,3 +58,5 @@ As três páginas são arquivos HTML independentes com estilos e interações in
 ## Direção visual e bibliotecas de movimento
 
 Novos sites seguem uma apresentação mais editorial, com imagens de destaque, profundidade e movimento refinado ajustados ao setor. Este repositório inclui GSAP, Lenis e Three.js para apoiar a criação de novas experiências. Leia `AGENTS.md` antes de criar páginas: ele orienta as escolhas de animação, desempenho e acessibilidade e preserva o formato HTML independente quando solicitado. As bibliotecas estão instaladas localmente; não envie `node_modules` ao GitHub.
+
+- **Prumo Logística** — proposta demonstrativa para transporte de grãos, calcário e insumos, com filial em Rondonópolis–MT conforme imagem enviada (`prumo-logistica/index.html`). Contatos, operação e demais dados aguardam validação.
