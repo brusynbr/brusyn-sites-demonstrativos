@@ -1,6 +1,6 @@
 # BRUSYN — Sites demonstrativos
 
-Coleção de vinte e um sites com marcas fictícias para demonstração comercial, acompanhada de uma galeria central.
+Coleção de vinte e dois sites demonstrativos para apresentação comercial, acompanhada de uma galeria central. A maioria usa marcas fictícias; o modelo Espaço Mulher é uma proposta conceitual para prospecção e não representa um site oficial do salão.
 
 ## Modelos
 
@@ -17,7 +17,7 @@ Coleção de vinte e um sites com marcas fictícias para demonstração comercia
 - **PATA & CIA** — Pet shop (`petshop/index.html`)
 - **DOURADINHA** — Cardápio de salgaderia (`salgaderia/index.html`)
 
-Os modelos usam marcas e dados fictícios. Confirme preços, condições, localização e contatos antes de adaptar qualquer conteúdo a uma empresa real.
+Os modelos são demonstrações. Confirme preços, condições, localização, contatos, serviços e autorização de uso de marca antes de adaptar qualquer conteúdo a uma empresa real.
 
 ## Novos segmentos
 
@@ -31,3 +31,7 @@ Os modelos usam marcas e dados fictícios. Confirme preços, condições, locali
 - **ELO VET** — Clínica veterinária (veterinaria/index.html)
 
 - **VIVA** — Farmácia (farmacia/index.html)
+
+- **Espaço Mulher Cabelo e Estética** — proposta demonstrativa personalizada para um salão em Nova Xavantina (espaco-mulher/index.html). O perfil do Instagram tem o nome exato e publicações de beleza coerentes com o negócio; o vínculo com o endereço ainda depende de confirmação.
+
+O site Espaço Mulher está em um único `index.html`, com CSS, JavaScript e imagens ilustrativas incorporados. A imagem de atendimento foi gerada para demonstração; a foto secundária veio do Unsplash. Nenhuma foto pessoal dos prints foi reutilizada.
