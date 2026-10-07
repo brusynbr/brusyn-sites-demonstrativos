@@ -1,6 +1,6 @@
 # BRUSYN — Sites demonstrativos
 
-Coleção de trinta sites demonstrativos para apresentação comercial, acompanhada de uma galeria central. A maioria usa marcas fictícias; os modelos personalizados Espaço Mulher, ROKEVI, Salão do Milhões, Sempre Bella Virgínia e Salão da Jucélia, Salão da Ju, Drysabelle, Salão das Carias e Cabelo Brasil são propostas conceituais para prospecção, não sites oficiais dos salões.
+Coleção de trinta e três sites demonstrativos para apresentação comercial, acompanhada de uma galeria central. A maioria usa marcas fictícias; propostas personalizadas para empresas reais são conceitos de prospecção, não páginas oficiais. Os detalhes que dependem de confirmação estão indicados em cada modelo.
 
 ## Modelos
 
@@ -46,3 +46,11 @@ O site Espaço Mulher está em um único `index.html`, com CSS, JavaScript e ima
 - **Drysabelle** — proposta para Rubiataba–GO, com dados do Maps e perfil social indicado para confirmação (salao-drysabelle/index.html).
 - **Salão das Carias** — proposta para Americano do Brasil–GO; dados do Google Maps e serviços ainda dependem de confirmação (salao-das-carias/index.html).
 - **Cabelo Brasil** — proposta para a Av. Paulista, em São Paulo–SP, com corte de cabelo e maquiagem mencionados nas avaliações (cabelo-brasil/index.html).
+
+## Propostas personalizadas adicionais
+
+- **Brasil Advocacia** — conceito de apresentação digital para o escritório listado na Asa Sul, Brasília/DF (`brasil-advocacia/index.html`). Informações institucionais, áreas de atuação e registros profissionais precisam ser confirmados.
+- **Samira Lourenço Advocacia e Consultoria Jurídica** — proposta para o endereço informado no Complexo Brasil 21, Brasília/DF (`samira-lourenco-advocacia/index.html`). O conceito usa os atributos públicos do perfil; dados profissionais e conteúdo jurídico precisam de validação.
+- **Clínica Médica Água Boa** — proposta com endereço e contato públicos em Água Boa/MT (`clinica-medica-agua-boa/index.html`). Especialidades, equipe, registros, horários e serviços precisam ser confirmados.
+
+As três páginas são arquivos HTML independentes com estilos e interações incorporados. As fotografias são ilustrativas e carregadas do Unsplash; fontes são servidas pelo Google Fonts. Revise os avisos de publicidade profissional e valide os dados com cada empresa antes de publicar.
