@@ -1,6 +1,6 @@
 # BRUSYN — Sites demonstrativos
 
-Coleção de vinte e seis sites demonstrativos para apresentação comercial, acompanhada de uma galeria central. A maioria usa marcas fictícias; os modelos personalizados Espaço Mulher, ROKEVI, Salão do Milhões, Sempre Bella Virgínia e Salão da Jucélia são propostas conceituais para prospecção, não sites oficiais dos salões.
+Coleção de trinta sites demonstrativos para apresentação comercial, acompanhada de uma galeria central. A maioria usa marcas fictícias; os modelos personalizados Espaço Mulher, ROKEVI, Salão do Milhões, Sempre Bella Virgínia e Salão da Jucélia, Salão da Ju, Drysabelle, Salão das Carias e Cabelo Brasil são propostas conceituais para prospecção, não sites oficiais dos salões.
 
 ## Modelos
 
@@ -41,3 +41,8 @@ O site Espaço Mulher está em um único `index.html`, com CSS, JavaScript e ima
 - **Salão do Milhões** — proposta personalizada para um salão de cabeleireiro em Mineiros–GO (salao-do-milhoes/index.html). O Instagram descreve foco em químicas capilares e destaques para cabelo, manicure e sobrancelhas; horários e detalhes comerciais seguem sujeitos à confirmação.
 - **Sempre Bella Virgínia** — proposta personalizada para um salão de beleza em Uruana–GO (sempre-bella-virginia/index.html). Usa os dados e avaliações do Google Maps enviados pelo solicitante; o catálogo de serviços e os horários completos precisam ser confirmados.
 - **Salão da Jucélia** — proposta personalizada para salão de beleza em Iporá–GO (salao-da-jucelia/index.html). Usa as avaliações e os dados do Maps enviados pelo solicitante; as fotos do perfil sugerem manicure, mas os serviços e horários completos precisam ser confirmados.
+
+- **Salão da Ju** — proposta para Paulo de Faria–SP, baseada nas informações do Maps; o catálogo citado menciona alisamentos (salao-da-ju/index.html).
+- **Drysabelle** — proposta para Rubiataba–GO, com dados do Maps e perfil social indicado para confirmação (salao-drysabelle/index.html).
+- **Salão das Carias** — proposta para Americano do Brasil–GO; dados do Google Maps e serviços ainda dependem de confirmação (salao-das-carias/index.html).
+- **Cabelo Brasil** — proposta para a Av. Paulista, em São Paulo–SP, com corte de cabelo e maquiagem mencionados nas avaliações (cabelo-brasil/index.html).
