@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "gsap": "3.15.0",
+    "lenis": "1.3.26",
+    "three": "0.186.1"
+  },
+  "name": "brusyn-sites-demonstrativos",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Bibliotecas de movimento para os sites demonstrativos da Brusyn"
+}

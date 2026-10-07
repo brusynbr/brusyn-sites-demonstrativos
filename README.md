@@ -54,3 +54,7 @@ O site Espaço Mulher está em um único `index.html`, com CSS, JavaScript e ima
 - **Clínica Médica Água Boa** — proposta com endereço e contato públicos em Água Boa/MT (`clinica-medica-agua-boa/index.html`). Especialidades, equipe, registros, horários e serviços precisam ser confirmados.
 
 As três páginas são arquivos HTML independentes com estilos e interações incorporados. As fotografias são ilustrativas e carregadas do Unsplash; fontes são servidas pelo Google Fonts. Revise os avisos de publicidade profissional e valide os dados com cada empresa antes de publicar.
+
+## Direção visual e bibliotecas de movimento
+
+Novos sites seguem uma apresentação mais editorial, com imagens de destaque, profundidade e movimento refinado ajustados ao setor. Este repositório inclui GSAP, Lenis e Three.js para apoiar a criação de novas experiências. Leia `AGENTS.md` antes de criar páginas: ele orienta as escolhas de animação, desempenho e acessibilidade e preserva o formato HTML independente quando solicitado. As bibliotecas estão instaladas localmente; não envie `node_modules` ao GitHub.
