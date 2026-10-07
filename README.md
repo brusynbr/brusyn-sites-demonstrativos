@@ -1,6 +1,6 @@
 # BRUSYN — Sites demonstrativos
 
-Coleção de vinte e dois sites demonstrativos para apresentação comercial, acompanhada de uma galeria central. A maioria usa marcas fictícias; o modelo Espaço Mulher é uma proposta conceitual para prospecção e não representa um site oficial do salão.
+Coleção de vinte e três sites demonstrativos para apresentação comercial, acompanhada de uma galeria central. A maioria usa marcas fictícias; o modelo Espaço Mulher é uma proposta conceitual para prospecção e não representa um site oficial do salão.
 
 ## Modelos
 
@@ -35,3 +35,5 @@ Os modelos são demonstrações. Confirme preços, condições, localização, c
 - **Espaço Mulher Cabelo e Estética** — proposta demonstrativa personalizada para um salão em Nova Xavantina (espaco-mulher/index.html). O perfil do Instagram tem o nome exato e publicações de beleza coerentes com o negócio; o vínculo com o endereço ainda depende de confirmação.
 
 O site Espaço Mulher está em um único `index.html`, com CSS, JavaScript e imagens ilustrativas incorporados. A imagem de atendimento foi gerada para demonstração; a foto secundária veio do Unsplash. Nenhuma foto pessoal dos prints foi reutilizada.
+
+- **ROKEVI** — proposta personalizada para um salão de beleza em Barra do Garças (rokevi/index.html). Serviços reunidos a partir dos destaques públicos do Instagram; endereço divergente entre Instagram e Google Maps assinalado para confirmação.
